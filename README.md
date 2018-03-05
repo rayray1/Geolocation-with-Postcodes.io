@@ -10,7 +10,7 @@ Geolocation with postcodes.io api
 ## Discussion
 
 I used the following technologies: HTML, Javascript, with GoogleMaps/Postcode.io Api's.
-I used [axios](https://github.com/axios/axios) which is a Promise based HTTP client for the browser and node.js to get requests from [Postcodes.io](https://github.com/axios/axios).
+I used [axios](https://github.com/axios/axios) which is a Promise based HTTP client for the browser and node.js to get requests from [Postcodes.io](http://postcodes.io/).
 
 The web page generates a map based on the user's location showing their nearest UK Postcode and Parliamentary Constituency.
 
